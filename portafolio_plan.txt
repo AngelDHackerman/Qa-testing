@@ -10,12 +10,12 @@ Sitios web que puedo testear manual y automatizado:
 
 telus.com  
 rogers.com
+google.com 
 
 
 
 
 https://www.canadapost-postescanada.ca/cpc/en/home.page (fr & en) 
-google.com 
 indeed.com 
 bbc.com
 Etsy.com
@@ -42,8 +42,3 @@ https://www.telequebec.tv/
 https://www.monster.ca/
 https://www.linkedin.com/
 https://www.workopolis.com/en
-
-
-3) Usando jira para documentar el proceso: 
-
-angelhackerman.atlassian.net
