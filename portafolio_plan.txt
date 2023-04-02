@@ -1,0 +1,46 @@
+
+1) paso crear un portafolio
+
+Esta pagina nos puede dar buenas ideas de como crearlo: 
+
+	https://youintechnology.com/software-tester-portfolio/
+	crear un perfil en wix 
+	
+Sitios web que puedo testear manual y automatizado: 
+
+telus.com
+rogers.com
+bell.com
+https://www.telequebec.tv/
+https://www.canadapost-postescanada.ca/cpc/en/home.page (fr & en) 
+google.com 
+indeed.com 
+bbc.com
+Etsy.com
+weather.com
+bitly.com 
+trello.com
+platzi.com
+wix.com
+Reddit.com
+walmart.ca
+www.kijiji.ca
+www.canadiantire.ca
+canada.ca
+https://www.theweathernetwork.com/cn
+https://www.cbc.ca/
+https://duckduckgo.com/
+https://www.fandom.com/
+
+
+
+2) Paginas web donde puedo buscar trabajos de Qa: 
+
+https://www.monster.ca/
+https://www.linkedin.com/
+https://www.workopolis.com/en
+
+
+3) Usando jira para documentar el proceso: 
+
+angelhackerman.atlassian.net
