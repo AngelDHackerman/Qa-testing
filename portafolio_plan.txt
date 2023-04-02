@@ -42,3 +42,20 @@ https://www.telequebec.tv/
 https://www.monster.ca/
 https://www.linkedin.com/
 https://www.workopolis.com/en
+
+
+3) Gestionar los Test cases y como subir la informacion del MANUAL testing
+
+1. Creamos los test cases en google calc, y luego los descargamos como un "csv" para subirlo a github. 
+2. Ese link lo compartimos en la pagina de wix al igual que el screenshot de los TC. 
+3. Generamos 1 ticket por cada pagina a testear, y alli tambien sus su-task en jira. 
+4. Los screenshots los guardamos en la carpeta "screenshots" y en cada subcarptepa correspondiente. Igual los compartiremos en la pagina de wix.
+5. Los "Validation documents" o "Test reports" los crearemos en google write, pero en la pagina web los colocaremos como un articulo. En github seran compartidos como un link en el "ReadMe" file
+
+4) Gestionar los Test cases y como subir la informacion del AUTOMATION testing
+
+1. Con los mismos o similares TC creados para el manual testing podemos usar los mismos para las pruebas automatizadas usando Python y Selenium. 
+2. El codigo escrito lo subieremos a github, ese link lo compartiremos en la pagina web. 
+3. Los unit testing generados con el codigo seran de importancia junto con los assertions creados en el test. 
+4. Cuando todo este listo y funcionando grabaremos video y lo subiremos a youtube a mi cuenta de "Angel Hackerman". El link del video sera compartido en la pagina junto con una descripcion
+
