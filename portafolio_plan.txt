@@ -8,10 +8,10 @@ Esta pagina nos puede dar buenas ideas de como crearlo:
 	
 Sitios web que puedo testear manual y automatizado: 
 
+
+google.com 
 telus.com  
 rogers.com
-google.com 
-
 
 
 
