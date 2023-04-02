@@ -8,10 +8,12 @@ Esta pagina nos puede dar buenas ideas de como crearlo:
 	
 Sitios web que puedo testear manual y automatizado: 
 
-telus.com
+telus.com  
 rogers.com
-bell.com
-https://www.telequebec.tv/
+
+
+
+
 https://www.canadapost-postescanada.ca/cpc/en/home.page (fr & en) 
 google.com 
 indeed.com 
@@ -31,6 +33,7 @@ https://www.theweathernetwork.com/cn
 https://www.cbc.ca/
 https://duckduckgo.com/
 https://www.fandom.com/
+https://www.telequebec.tv/
 
 
 
